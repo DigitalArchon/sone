@@ -1135,6 +1135,7 @@ pub fn run() {
             commands::utility::get_exclusive_device,
             commands::utility::set_exclusive_device,
             commands::utility::list_audio_devices,
+            commands::utility::is_snap,
             commands::utility::get_discord_rpc,
             commands::utility::set_discord_rpc,
             commands::utility::get_report_plays,
